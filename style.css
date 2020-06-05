@@ -46,6 +46,7 @@ nav ul {
   padding: 1rem 2rem;
   background: lightblue;
   border: none;
+  cursor: pointer;
 }
 /* INTRODUCTION */
 .intro {
